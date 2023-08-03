@@ -27,6 +27,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jayden-ais/ReactNativeApiSDK.git"
-  }
+    "url": "git+https://github.com/Jayden-ais/ReactNativeApiSDK.git"
+  },
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/Jayden-ais/ReactNativeApiSDK/issues"
+  },
+  "homepage": "https://github.com/Jayden-ais/ReactNativeApiSDK#readme",
+  "keywords": [
+    "NPM",
+    "Tutorial"
+  ],
+  "author": "tobias",
+  "license": "ISC"
 }
